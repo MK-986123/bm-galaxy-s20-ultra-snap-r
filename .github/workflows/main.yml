@@ -1,0 +1,13 @@
+- name: Android Kernel Action
+  # You may pin to the exact commit or the version.
+  # uses: lemniskett/android-kernel-actions@f9162afe792bfe092b4b0f5ac44fc0340c1b8992
+  uses: lemniskett/android-kernel-actions@v0.3.2
+  with:
+    # Device architecture
+    arch: 
+    # Compiler to use
+    compiler: 
+    # Defconfig to use
+    defconfig: 
+    # Kernel image name
+    image: 
